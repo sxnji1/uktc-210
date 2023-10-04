@@ -1,8 +1,8 @@
 public class Main {
-    private static final String NAME = "Gosho";
-    private static final int AGE = 55;
-    private static final String CITY = "newyork";
-    private static final String FAV_MOVIE = "none";
+    private static final String NAME = "";
+    private static final int AGE = 0;
+    private static final String CITY = "";
+    private static final String FAV_MOVIE = "";
 
     public static void main(String[] args) {
         System.out.println("Hello, my name is " + NAME);
@@ -12,3 +12,4 @@ public class Main {
         System.out.println("My favorite movie is " + FAV_MOVIE);
     }
 }
+
